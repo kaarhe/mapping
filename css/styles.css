@@ -1,0 +1,29 @@
+
+
+.active {
+	color: red;
+}
+
+h1 {
+	text-align: center;
+	color: green;
+	margin: top;
+	margin: bottom;
+}
+
+.container {
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+.map-container	{
+	height: 700px;
+}
+
+footer {
+	margin: top;
+	padding: 3px;
+	background-color: green;
+	color: white;
+}
+	
