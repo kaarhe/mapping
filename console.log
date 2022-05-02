@@ -1,0 +1,23 @@
+{
+   "type": "Feature",
+   "properties": {
+     "radio": "UMTS",
+     "mcc": 248,
+     "net": 1,
+     "area": 7,
+     "cell": 196901,
+     "unit": 0,
+     "lon": 26.726892,
+     "lat": 58.381053,
+     "range": 1000,
+     "samples": 7,
+     "changeable": 1,
+     "created": 1230291978,
+     "updated": 1248350450,
+     "averageSig": 0
+ },
+ "geometry": {
+     "type": "Point",
+     "coordinates": [26.726892, 58.381053]
+ }
+}
